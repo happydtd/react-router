@@ -57,3 +57,4 @@ export function deleteInvoice(number) {
 /**
  * @typedef {{ name: string; number: number; amount: string; due: string }} Invoice
  */
+
